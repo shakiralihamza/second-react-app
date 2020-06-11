@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <p>And am I not chngin? It's super!</p>
+          <p>y soy super tambien!</p>
         </p>
         <a
           className="App-link"
